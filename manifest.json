@@ -1,0 +1,16 @@
+    {
+      "name": "Frisbeegolf AR-Valmentaja",
+      "short_name": "FG-Valmentaja",
+      "start_url": "index.html",
+      "display": "standalone",
+      "background_color": "#ffffff",
+      "theme_color": "#000000",
+      "icons": [
+        {
+          "src": "img/logo.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ]
+    }
+    
